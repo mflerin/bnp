@@ -43,6 +43,7 @@ Your implementation must allow you to scan items and get a total.
 Pseudocode
 
 >One at a time: Scan A, Scan A, Scan C, Scan A, Scan D, Scan B, Scan B, Scan B, Scan A, Scan A
+
 >***Total = 290*** :
 >Ax4 (180) + Bx3 (75) + Cx1 (20) + Dx1(15)
 
@@ -59,5 +60,6 @@ Pseudocode
 Pseudocode
 
 >One at a time: Scan A, Scan A, Scan C, Scan A, Scan D, Scan D, Scan B, Scan B, Scan B, Scan A
+
 >***Total=275*** :
 >Ax3 (180) + Bx3(60) + Cx1(20) + Dx2(15)
